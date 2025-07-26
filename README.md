@@ -35,9 +35,8 @@ txCount ≥ 15.
 
 🧠 Trap Logic Summary
 Trap Contract: EthBurstTrap.sol
-solidity
-Копировать
-Редактировать
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -82,9 +81,7 @@ contract EthBurstTrap is ITrap {
     }
 }
 📢 Response Contract
-solidity
-Копировать
-Редактировать
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
